@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
 
   s.platform = :ios
   s.source = { :http => 'https://github.com/p3ol/access-package-ios/releases/latest/download/AccessIOS.xcframework.zip' }
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '13.0'
   s.ios.vendored_frameworks = 'AccessIOS.xcframework'
 end
