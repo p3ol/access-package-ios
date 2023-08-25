@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = 'AccessIOS'
-  s.version = '1.0.0'
-  s.summary = 'The easiest way to add Poool Access to your iOS app'
+  s.version = '0.0.1'
+  s.summary = 'The second easiest way to add Poool Access to your iOS app'
   s.homepage = 'https://poool.dev'
 
   s.author = { 'Morgan Berger' => 'morgan@poool.fr' }
