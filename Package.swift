@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
                     name: "AccessIOS",
-                    url: "https://github.com/p3ol/access-package-ios/releases/download/v2.11.2/AccessIOS.xcframework.zip",
-                    checksum: "8e16849794248f8872e5cf894de1d1c9f12c7f013a03c8c50aa14d527ad6658e"
+                    url: "https://github.com/p3ol/access-package-ios/releases/download/v2.11.3/AccessIOS.xcframework.zip",
+                    checksum: "2a29b5df5ff02e33aede10ece01b1de72426496b0748e49013abc1a1d2b7e181"
                 ),
     ]
 )
